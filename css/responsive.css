@@ -75,6 +75,22 @@
         display: block;
     }
 
+    .quick-notes li{
+        width: 100%;
+    }
+
+    .recipe-card{
+        display: flex;
+    }
+
+    .recipe-video{
+        width: 70%;
+    }
+
+    .recipe-info{
+        width: 30%;
+    }
+
     
 
 }
