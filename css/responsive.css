@@ -32,15 +32,20 @@
     main{
         padding: 40px;
     }
-    
+
 
     .quick-notes ul{
         display: flex;
         flex-wrap: wrap;
     }
 
+
     .quick-notes li{
         width: 30%;
+    }
+
+    .ads{
+        display: inline-block;
     }
 
 
