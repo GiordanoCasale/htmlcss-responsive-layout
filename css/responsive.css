@@ -17,8 +17,9 @@
     #topbar{
         justify-content: flex-start;
     }
+    
 
-    /*.recipe-origin{
+    .recipe-origin{
         display: inline-block;
     }
 
