@@ -48,5 +48,9 @@
         display: inline-block;
     }
 
+    .btn{
+        padding: 10px 50px;
+    }
+
 
 }
