@@ -17,11 +17,12 @@
     #topbar{
         justify-content: flex-start;
     }
-    
+
 
     .recipe-origin{
         display: inline-block;
     }
+    
 
     .recipe-name, .recipe-origin{
         font-size: 30px
