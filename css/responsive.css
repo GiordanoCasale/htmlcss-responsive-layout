@@ -65,7 +65,7 @@
 } 
 
 
-@media screen and (min-height: 992px) {
+@media screen and (min-width: 992px) {
 
     .recipe-name, .recipe-origin{
         font-size: 40px
@@ -108,9 +108,16 @@
     address{
         text-align: left;
     }
+ 
+
+}
 
 
+@media screen and (min-width: 576px) {
+    .clearfix img{
+        float: left;
+        margin-right: 10px;
+    }
 
     
-
 }
