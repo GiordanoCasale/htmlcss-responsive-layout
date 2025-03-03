@@ -59,4 +59,18 @@
     }
 
 
+   
+
+
+} 
+
+
+@media screen and (min-height: 992px) {
+
+    .recipe-name, .recipe-origin{
+        font-size: 40px
+    }
+
+    
+
 }
